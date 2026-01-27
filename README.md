@@ -21,3 +21,11 @@ This repository documents my 40-day journey to become job-ready as a Data Analys
 Build real-world, portfolio-ready data analysis projects and develop strong analytical thinking.
 
 📌 **Daily progress is pushed to this repository.**
+
+
+
+## Progress Log
+### Day 1
+- Learned Python basics for data analytics
+- Practiced variables, data types, operators, and conditional logic
+- Implemented small real-world decision-based problems
