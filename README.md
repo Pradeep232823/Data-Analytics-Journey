@@ -25,7 +25,17 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 
 ## Progress Log
+
 ### Day 1
 - Learned Python basics for data analytics
 - Practiced variables, data types, operators, and conditional logic
 - Implemented small real-world decision-based problems
+
+### Day 2
+- Learned loops and control flow in Python
+- Practiced basic problem-solving using for and while loops
+
+### Day 3
+- Learned tuples, dictionaries, and sets
+- Practiced iteration and nested data structures
+- Worked with structured data formats
