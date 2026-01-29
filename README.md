@@ -26,6 +26,12 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 ## Progress Log
 
+## Day 0 – Setup Completed
+
+- Git installed and verified
+- Repository created successfully
+- Ready to start Day 1
+
 ### Day 1
 - Learned Python basics for data analytics
 - Practiced variables, data types, operators, and conditional logic
@@ -39,3 +45,8 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Learned tuples, dictionaries, and sets
 - Practiced iteration and nested data structures
 - Worked with structured data formats
+
+### Day 4
+- Learned Python functions and modular programming
+- Practiced parameters, return values, and lambda functions
+- Used built-in modules like random
