@@ -50,3 +50,8 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Learned Python functions and modular programming
 - Practiced parameters, return values, and lambda functions
 - Used built-in modules like random
+
+### Day 5
+- Learned NumPy fundamentals
+- Created and manipulated NumPy arrays
+- Performed vectorized and aggregation operations
