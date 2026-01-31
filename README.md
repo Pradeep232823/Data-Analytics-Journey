@@ -55,3 +55,8 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Learned NumPy fundamentals
 - Created and manipulated NumPy arrays
 - Performed vectorized and aggregation operations
+
+### Day 6
+- Learned Pandas fundamentals for data analysis
+- Performed data exploration and cleaning
+- Worked with GroupBy, merge, pivot, and melt operations
