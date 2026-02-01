@@ -60,3 +60,7 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Learned Pandas fundamentals for data analysis
 - Performed data exploration and cleaning
 - Worked with GroupBy, merge, pivot, and melt operations
+
+### Day 7
+- Learned data visualization using Matplotlib and Seaborn
+- Created basic plots to understand data patterns
