@@ -5,11 +5,11 @@ Understand Excel as a data analytics tool for cleaning, validating, summarizing,
 ## Core Excel Features Covered
 
 ### 1. Auto Fill & Flash Fill
-  - Auto Fill: Quickly fills series (numbers, dates, patterns).
-  - Flash Fill: Extracts or formats data automatically based on detected patterns.
-  - Common use cases:
-    - Splitting full names into first/last names
-    - Formatting IDs, phone numbers
+- Auto Fill: Quickly fills series (numbers, dates, patterns).
+- Flash Fill: Extracts or formats data automatically based on detected patterns.
+- Common use cases:
+  - Splitting full names into first/last names
+  - Formatting IDs, phone numbers
 
 ### 2. Text to Columns
 - Used to split delimited data into multiple columns.
