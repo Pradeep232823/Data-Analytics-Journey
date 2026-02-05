@@ -26,6 +26,8 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 ## Progress Log
 
+## Phase 1 - WsCube 29hr Video tutorial learning
+
 ## Day 0 – Setup Completed
 
 - Git installed and verified
@@ -123,3 +125,43 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Understood the complete Power BI workflow
 - Learned data transformation, modeling, DAX basics, and visualization concepts
 - Ready to start building structured Power BI reports
+
+
+## Phase 2 – Consolidation (10–14 Days)
+
+### Goal:
+Strengthen hands-on data analysis skills through real-world practice and build portfolio-ready projects.
+
+### Breakdown:
+1. **Days 1–4:** Python & Pandas – Data Cleaning, Transformation, and Analysis  
+2. **Days 5–7:** SQL – Queries, Joins, and Window Functions  
+3. **Days 8–9:** Excel – Business Analysis and Dashboards  
+4. **Days 10–11:** Power BI – Data Modeling and Insightful Reports  
+5. **Days 12–14:** Mini Project – End-to-End Data 
+
+
+### Day 1 & 2 – Pandas Data Cleaning & Transformations
+
+**Focus:**
+- Clean and standardize raw sales data
+- Apply business-driven transformations using Pandas
+
+**Tasks Completed:**
+- Loaded and inspected the Superstore Sales dataset
+- Standardized column names for consistency and improved readability
+- Handled missing values and removed duplicate records
+- Corrected data types to support accurate numerical and date-based analysis
+- Exported a cleaned dataset to enable reproducible workflows
+- Applied filtering logic to isolate relevant records for analysis
+- Created derived columns to support business-driven insights
+- Sorted data to highlight key performance trends
+
+**Key Learnings:**
+- High-quality analysis depends on clean and well-structured data
+- Clear documentation of data decisions improves transparency and collaboration
+- Effective transformations should be guided by business questions, not just technical logic
+
+**Outcome:**
+- Produced a clean, analysis-ready dataset
+- Completed two well-documented Pandas notebooks
+- Established a strong foundation for advanced analysis, reporting, and visualization
