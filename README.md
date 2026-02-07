@@ -216,3 +216,29 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Created two well-documented SQL files covering fundamentals and joins
 - Built interview-level confidence in SQL querying and join logic
 - Strengthened ability to reason about relational data and business use cases
+
+### Day 7 – SQL Window Functions & Advanced Analysis
+
+**Focus:**
+- Move from basic SQL to analyst-level SQL thinking
+- Apply window functions for ranking, comparison, and contextual analysis
+
+**Tasks Completed:**
+- Practiced core window functions: ROW_NUMBER, RANK, and DENSE_RANK
+- Used PARTITION BY and ORDER BY to rank records within categories
+- Identified top-performing orders and sub-categories using window functions
+- Compared GROUP BY and window functions for the same business problems
+- Demonstrated scenarios where window functions are required over GROUP BY
+- Wrote advanced consolidation queries combining aggregation and window logic
+- Added detailed comments explaining business intent and SQL reasoning
+
+**Key Learnings:**
+- Window functions enable row-level analysis with aggregated context
+- ROW_NUMBER is useful for selecting a fixed number of top records
+- RANK and DENSE_RANK handle ties differently and must be chosen carefully
+- Window functions are essential for advanced analytical and interview scenarios
+
+**Outcome:**
+- Completed an interview-grade SQL file focused on window functions
+- Built strong confidence in advanced SQL concepts and analytical queries
+- Closed the SQL phase of Phase 2 with end-to-end consolidation
