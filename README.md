@@ -242,3 +242,54 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Completed an interview-grade SQL file focused on window functions
 - Built strong confidence in advanced SQL concepts and analytical queries
 - Closed the SQL phase of Phase 2 with end-to-end consolidation
+
+
+### Day 8 & 9 – Excel Business Analysis & Dashboards
+
+**Focus:**
+- Perform business-focused data analysis using Excel
+- Build clean, interactive dashboards for decision-making
+
+**Projects Covered:**
+- Superstore Sales Analysis
+- Hotel Booking Cancellations Analysis
+
+---
+
+#### Excel Analysis & Dashboard – Superstore Sales
+
+**Key Highlights:**
+- Cleaned and standardized raw sales data for analysis
+- Applied business logic using IF, AND, OR, COUNTIF, SUMIF, and XLOOKUP
+- Created profit and performance classification columns
+- Built pivot tables to analyze sales, profit, orders, and trends
+- Designed a clean dashboard with KPIs, category performance, and sales trends
+
+**Key Insights:**
+- Technology category generates the highest sales and profit
+- Consumer segment contributes the largest share of revenue and orders
+- Sales show consistent growth from 2015 to 2018
+- Furniture category shows relatively lower profit margins
+
+---
+
+#### Excel Analysis & Dashboard – Hotel Booking Cancellations
+
+**Key Highlights:**
+- Analyzed booking and cancellation patterns across hotel types and guest segments
+- Built interactive dashboards with slicers and KPI cards
+- Visualized cancellation trends by guest type, hotel type, and seasonality
+- Focused on identifying operational and revenue risks
+
+**Key Insights:
+- City Hotels experience higher cancellation volumes than Resort Hotels
+- Couples account for the highest number of cancellations
+- Cancellation rates peak during mid-year months (July–October)
+- Undesired bookings show significantly higher cancellation behavior
+
+---
+
+**Outcome:**
+- Built two business-ready Excel dashboards
+- Demonstrated strong analytical thinking and storytelling skills
+- Strengthened ability to convert raw data into actionable insights
