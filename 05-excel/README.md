@@ -131,4 +131,4 @@ Use case: Joining tables using a common key (similar to SQL JOIN).
 ### Excel Dashboard Preview
 
 #### Hotel Booking Cancellations Dashboard
-![Hotel Booking Dashboard](assets/excel/hotel_booking_dashboard.png)
+![Hotel Booking Dashboard](.../assets/excel/hotel_booking_dashboard.png)
