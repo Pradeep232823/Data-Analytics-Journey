@@ -293,3 +293,30 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Built two business-ready Excel dashboards
 - Demonstrated strong analytical thinking and storytelling skills
 - Strengthened ability to convert raw data into actionable insights
+
+
+### Day 10 & 11 – Power BI End-to-End Business Report
+
+**Focus:**
+- Build an end-to-end Power BI solution from data modeling to business insights
+- Emphasize clarity, KPIs, and decision-making over complex visuals
+
+**Tasks Completed:**
+- Loaded and cleaned Superstore sales data using Power Query
+- Standardized column names and fixed data types
+- Designed a clean and efficient data model
+- Created core DAX measures for sales analysis
+- Built a one-page business dashboard with KPIs and trends
+- Added filters for interactive analysis
+- Documented insights and recommendations
+
+**Key Insights:**
+- Technology is the highest-performing category by total sales
+- Consumer segment contributes the largest share of revenue
+- Sales show consistent growth from 2015 to 2018
+- Sub-category analysis highlights top-performing and low-performing products
+
+**Outcome:**
+- Delivered a business-ready Power BI report
+- Demonstrated data modeling, DAX, and storytelling skills
+- Strengthened BI and visualization capabilities
