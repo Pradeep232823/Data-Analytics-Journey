@@ -22,7 +22,8 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 
 📌 **Daily progress is pushed to this repository.**
 
-
+---
+---
 
 ## Progress Log
 
@@ -39,37 +40,53 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Practiced variables, data types, operators, and conditional logic
 - Implemented small real-world decision-based problems
 
+---
+
 ### Day 2
 - Learned loops and control flow in Python
 - Practiced basic problem-solving using for and while loops
+
+---
 
 ### Day 3
 - Learned tuples, dictionaries, and sets
 - Practiced iteration and nested data structures
 - Worked with structured data formats
 
+---
+
 ### Day 4
 - Learned Python functions and modular programming
 - Practiced parameters, return values, and lambda functions
 - Used built-in modules like random
+
+---
 
 ### Day 5
 - Learned NumPy fundamentals
 - Created and manipulated NumPy arrays
 - Performed vectorized and aggregation operations
 
+---
+
 ### Day 6
 - Learned Pandas fundamentals for data analysis
 - Performed data exploration and cleaning
 - Worked with GroupBy, merge, pivot, and melt operations
 
+---
+
 ### Day 7
 - Learned data visualization using Matplotlib and Seaborn
 - Created basic plots to understand data patterns
 
+---
+
 ### Day 8
 - Learned MySQL for data analytics
 - Practiced filtering, aggregation, joins, subqueries, and window functions
+
+---
 
 ### Day 9
 - Learned Excel basics for data analytics
@@ -77,6 +94,8 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Worked with data validation, sorting, and filtering
 - Handled null values, duplicates, and text cleanup
 - Introduced to Power Query and Pivot Tables
+
+---
 
 ### Day 10 – Power BI Fundamentals & DAX Basics
 
@@ -126,6 +145,8 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Learned data transformation, modeling, DAX basics, and visualization concepts
 - Ready to start building structured Power BI reports
 
+---
+---
 
 ## Phase 2 – Consolidation (10–14 Days)
 
@@ -139,6 +160,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 4. **Days 10–11:** Power BI – Data Modeling and Insightful Reports  
 5. **Days 12–13:** Mini Project – End-to-End Data 
 
+---
+---
 
 ### Day 1 & 2 – Pandas Data Cleaning & Transformations
 
@@ -166,6 +189,9 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Completed two well-documented Pandas notebooks
 - Established a strong foundation for advanced analysis, reporting, and visualization
 
+---
+---
+
 ### Day 3 & 4 – Pandas GroupBy, Merge & End-to-End Analysis
 
 **Focus:**
@@ -190,6 +216,9 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Completed two advanced Pandas notebooks demonstrating analytical thinking
 - Developed strong end-to-end data analysis capability
 - Built interview-ready examples of business-driven Pandas analysis
+
+---
+---
 
 ### Day 5 & 6 – SQL Basics and Joins
 
@@ -217,6 +246,9 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Built interview-level confidence in SQL querying and join logic
 - Strengthened ability to reason about relational data and business use cases
 
+---
+---
+
 ### Day 7 – SQL Window Functions & Advanced Analysis
 
 **Focus:**
@@ -243,6 +275,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Built strong confidence in advanced SQL concepts and analytical queries
 - Closed the SQL phase of Phase 2 with end-to-end consolidation
 
+---
+---
 
 ### Day 8 & 9 – Excel Business Analysis & Dashboards
 
@@ -253,8 +287,6 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 **Projects Covered:**
 - Superstore Sales Analysis
 - Hotel Booking Cancellations Analysis
-
----
 
 #### Excel Analysis & Dashboard – Superstore Sales
 
@@ -271,8 +303,6 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Sales show consistent growth from 2015 to 2018
 - Furniture category shows relatively lower profit margins
 
----
-
 #### Excel Analysis & Dashboard – Hotel Booking Cancellations
 
 **Key Highlights:**
@@ -287,13 +317,13 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Cancellation rates peak during mid-year months (July–October)
 - Undesired bookings show significantly higher cancellation behavior
 
----
-
 **Outcome:**
 - Built two business-ready Excel dashboards
 - Demonstrated strong analytical thinking and storytelling skills
 - Strengthened ability to convert raw data into actionable insights
 
+---
+---
 
 ### Day 10 & 11 – Power BI End-to-End Business Report
 
@@ -321,6 +351,9 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Demonstrated data modeling, DAX, and storytelling skills
 - Strengthened BI and visualization capabilities
 
+---
+---
+
 ### Day 12 & 13 – Mini Project: Food Delivery Performance & Operations Analytics
 
 **Focus:**
@@ -346,3 +379,6 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Completed a full analyst-style mini project
 - Produced a clean Power BI dashboard with operational and revenue insights
 - Created a portfolio-ready project suitable for interviews and resumes
+
+---
+---
