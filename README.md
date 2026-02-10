@@ -137,7 +137,7 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 2. **Days 5–7:** SQL – Queries, Joins, and Window Functions  
 3. **Days 8–9:** Excel – Business Analysis and Dashboards  
 4. **Days 10–11:** Power BI – Data Modeling and Insightful Reports  
-5. **Days 12–14:** Mini Project – End-to-End Data 
+5. **Days 12–13:** Mini Project – End-to-End Data 
 
 
 ### Day 1 & 2 – Pandas Data Cleaning & Transformations
@@ -320,3 +320,29 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Delivered a business-ready Power BI report
 - Demonstrated data modeling, DAX, and storytelling skills
 - Strengthened BI and visualization capabilities
+
+### Day 12 & 13 – Mini Project: Food Delivery Performance & Operations Analytics
+
+**Focus:**
+- Build an end-to-end, portfolio-ready data analytics project
+- Demonstrate real-world problem-solving using multiple tools
+
+**Tasks Completed:**
+- Selected a multi-sheet food delivery dataset (orders, customers, restaurants, delivery partners)
+- Cleaned and feature-engineered data using Python (Pandas)
+- Exported cleaned datasets for reuse across tools
+- Imported cleaned data into SQL and performed business-driven analysis
+- Used joins, aggregations, and window functions to answer operational questions
+- Built a one-page interactive Power BI dashboard with KPIs and slicers
+- Documented the full project with a structured, recruiter-friendly README
+
+**Key Learnings:**
+- End-to-end projects require clear problem definition and disciplined workflow
+- Data preparation and feature engineering simplify downstream analysis
+- SQL is essential for answering business questions at scale
+- Dashboards should prioritize clarity and decision-making over visual complexity
+
+**Outcome:**
+- Completed a full analyst-style mini project
+- Produced a clean Power BI dashboard with operational and revenue insights
+- Created a portfolio-ready project suitable for interviews and resumes
