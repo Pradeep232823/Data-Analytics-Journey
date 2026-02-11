@@ -2,16 +2,12 @@
 
 This repository documents my journey to become a Data Analyst.
 
----
-
 ## 🔧 Tools & Skills
 - Python (Pandas, NumPy, Matplotlib)
 - SQL
 - Statistics
 - Excel
 - Data Cleaning & EDA
-
----
 
 ## 📁 Structure
 - 01-python → Core Python practice
@@ -24,17 +20,13 @@ This repository documents my journey to become a Data Analyst.
 ## 🎯 Goal
 Build real-world, portfolio-ready data analysis projects and develop strong analytical thinking.
 
----
-
 📌 **Daily progress is pushed to this repository.**
 
 ## Progress Log
 
----
-
 ## Phase 1 - WsCube 29hr Video tutorial learning
 
-## Day 0 – Setup Completed
+### Day 0 – Setup Completed
 
 - Git installed and verified
 - Repository created successfully
@@ -131,8 +123,6 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Understood the complete Power BI workflow
 - Learned data transformation, modeling, DAX basics, and visualization concepts
 - Ready to start building structured Power BI reports
-
----
 
 ## Phase 2 – Consolidation (10–14 Days)
 
