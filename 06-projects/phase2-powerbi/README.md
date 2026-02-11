@@ -39,4 +39,4 @@ to improve overall profitability.
 
 ### Dashboard Preview
 
-![Superstore Power BI Dashboard](../../assets/powerbi/superstore_powerbi_dashboard.png)
+![Superstore Power BI Dashboard](../../assets/powerbi/superstore_powerbi_dashboard.jpg)

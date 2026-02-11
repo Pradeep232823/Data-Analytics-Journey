@@ -154,7 +154,7 @@ This structure ensures scalable, clean analytical reporting.
 
 ## 🖼 Dashboard Preview
 
-![Retail Sales Dashboard](../../assets/powerbi/retail_sales_dashboard.png)
+![Retail Sales Dashboard](../../assets/powerbi/retail_sales_dashboard.jpg)
 
 *Figure: Executive dashboard highlighting revenue, profit, regional and product performance.*
 

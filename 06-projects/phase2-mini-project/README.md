@@ -102,7 +102,7 @@ The raw data was cleaned, transformed, and feature-engineered before analysis.
 ## 📷 Dashboard Preview
 A Power BI dashboard was created to present business and operational insights in a clear, executive-friendly format.
 
-![Superstore Power BI Dashboard](../../assets/powerbi/swiggy_dashboard.png)
+![Superstore Power BI Dashboard](../../assets/powerbi/swiggy_dashboard.jpg)
 
 ---
 
