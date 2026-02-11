@@ -1,6 +1,8 @@
-# 📊 Data Analytics Journey (40 Days)
+# 📊 Data Analytics Journey
 
-This repository documents my 40-day journey to become job-ready as a Data Analyst.
+This repository documents my journey to become a Data Analyst.
+
+---
 
 ## 🔧 Tools & Skills
 - Python (Pandas, NumPy, Matplotlib)
@@ -8,6 +10,8 @@ This repository documents my 40-day journey to become job-ready as a Data Analys
 - Statistics
 - Excel
 - Data Cleaning & EDA
+
+---
 
 ## 📁 Structure
 - 01-python → Core Python practice
@@ -20,9 +24,13 @@ This repository documents my 40-day journey to become job-ready as a Data Analys
 ## 🎯 Goal
 Build real-world, portfolio-ready data analysis projects and develop strong analytical thinking.
 
+---
+
 📌 **Daily progress is pushed to this repository.**
 
 ## Progress Log
+
+---
 
 ## Phase 1 - WsCube 29hr Video tutorial learning
 
@@ -124,10 +132,14 @@ Build real-world, portfolio-ready data analysis projects and develop strong anal
 - Learned data transformation, modeling, DAX basics, and visualization concepts
 - Ready to start building structured Power BI reports
 
+---
+
 ## Phase 2 – Consolidation (10–14 Days)
 
 ### Goal:
 Strengthen hands-on data analysis skills through real-world practice and build portfolio-ready projects.
+
+---
 
 ### Breakdown:
 1. **Days 1–4:** Python & Pandas – Data Cleaning, Transformation, and Analysis  
@@ -135,6 +147,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 3. **Days 8–9:** Excel – Business Analysis and Dashboards  
 4. **Days 10–11:** Power BI – Data Modeling and Insightful Reports  
 5. **Days 12–13:** Mini Project – End-to-End Data 
+
+---
 
 ### Day 1 & 2 – Pandas Data Cleaning & Transformations
 
@@ -162,6 +176,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Completed two well-documented Pandas notebooks
 - Established a strong foundation for advanced analysis, reporting, and visualization
 
+---
+
 ### Day 3 & 4 – Pandas GroupBy, Merge & End-to-End Analysis
 
 **Focus:**
@@ -186,6 +202,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Completed two advanced Pandas notebooks demonstrating analytical thinking
 - Developed strong end-to-end data analysis capability
 - Built interview-ready examples of business-driven Pandas analysis
+
+---
 
 ### Day 5 & 6 – SQL Basics and Joins
 
@@ -214,7 +232,6 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Strengthened ability to reason about relational data and business use cases
 
 ---
----
 
 ### Day 7 – SQL Window Functions & Advanced Analysis
 
@@ -242,6 +259,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Built strong confidence in advanced SQL concepts and analytical queries
 - Closed the SQL phase of Phase 2 with end-to-end consolidation
 
+---
+
 ### Day 8 & 9 – Excel Business Analysis & Dashboards
 
 **Focus:**
@@ -251,6 +270,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 **Projects Covered:**
 - Superstore Sales Analysis
 - Hotel Booking Cancellations Analysis
+
+---
 
 #### Excel Analysis & Dashboard – Superstore Sales
 
@@ -266,6 +287,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Consumer segment contributes the largest share of revenue and orders
 - Sales show consistent growth from 2015 to 2018
 - Furniture category shows relatively lower profit margins
+
+---
 
 #### Excel Analysis & Dashboard – Hotel Booking Cancellations
 
@@ -285,6 +308,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Built two business-ready Excel dashboards
 - Demonstrated strong analytical thinking and storytelling skills
 - Strengthened ability to convert raw data into actionable insights
+
+---
 
 ### Day 10 & 11 – Power BI End-to-End Business Report
 
@@ -312,6 +337,8 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Demonstrated data modeling, DAX, and storytelling skills
 - Strengthened BI and visualization capabilities
 
+---
+
 ### Day 12 & 13 – Mini Project: Food Delivery Performance & Operations Analytics
 
 **Focus:**
@@ -337,3 +364,77 @@ Strengthen hands-on data analysis skills through real-world practice and build p
 - Completed a full analyst-style mini project
 - Produced a clean Power BI dashboard with operational and revenue insights
 - Created a portfolio-ready project suitable for interviews and resumes
+
+---
+
+## 🟣 Phase 3 – Portfolio Expansion & Advanced Projects
+
+Phase 3 focuses on transforming technical skills into recruiter-ready, business-focused projects.
+
+This phase emphasizes:
+- Strong SQL depth
+- End-to-end analytics thinking
+- Executive-level dashboards
+- Clean project documentation
+- Portfolio presentation quality
+
+---
+
+### 📌 Project 1 – SQL Analytics Project
+
+**Objective:**  
+Perform deep SQL-based analysis on retail sales data to extract revenue, profitability, and growth insights.
+
+**Skills Demonstrated:**
+- Advanced `GROUP BY` aggregations
+- Window functions (`LAG`, running totals)
+- Revenue growth calculations
+- Profit margin analysis
+- Correlation analysis
+- Ranking & Top-N queries
+
+**Key Insights Delivered:**
+- Year-over-year revenue growth trends
+- High-discount impact on profitability
+- Top-performing customers and cities
+- Monthly revenue patterns and running totals
+
+📂 Folder: `06-projects/sql-analytics-project/`
+
+---
+
+### 📊 Project 2 – Retail Sales & Profit Performance Dashboard
+
+**Objective:**  
+Build an executive-level Power BI dashboard to analyze revenue, profit, customer segments, and regional performance.
+
+**Dataset Structure:**
+- Customers
+- Products
+- Stores
+- Transactions
+
+**Key Metrics Built:**
+- Total Revenue
+- Total Profit
+- Profit Margin %
+- Total Transactions
+
+**Business Insights:**
+- Revenue distribution by category and region
+- Monthly revenue trends
+- Product-level revenue contribution
+- Profit margin comparison by gender
+- Payment method profitability
+
+📂 Folder: `06-projects/dashboard-analytics-project/`  
+🖼 Dashboard Preview available in `assets/powerbi/`
+
+---
+
+### 🎯 Phase 3 Outcome
+
+- Portfolio now contains multiple structured, business-driven projects
+- Demonstrates SQL depth + BI storytelling capability
+- Recruiter-ready GitHub repository
+- Strong foundation for Data Analyst interviews
