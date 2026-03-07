@@ -1,1 +1,1 @@
-(../../../Mega-Market Retail Sales & Customer Intelligence Report (2016–2018)/1 Executive Summary Dashboard.jpg)
+![Mega_Market_Retail_Sales_&_Customer_Intelligence_Report-Executive Summary Dashboard](../../06-projects/mini-project-2/Mega_Market_Retail_Sales_&_Customer_Intelligence_Report_(2016–2018)/1_Executive_Summary_Dashboard.jpg)
